@@ -1,7 +1,6 @@
 //Modify this file to change what commands output to your statusbar, and recompile using the make command.
 static const Block blocks[] = {
 	/*Icon*/	/*Command*/		/*Update Interval*/	/*Update Signal*/
-  {"", "get-bluetooth-device-info", 0, 12   }, 
   {"", "nettraf",                   3,  0   },
 	{"", "memory",	                  30, 0   },
   {"", "cpu-temp",                  5,  0   },
